@@ -1,6 +1,6 @@
 # Sc2ranksapi
 
-TODO: Write a gem description
+This gem is used to access the sc2ranks api as described here. http://www.sc2ranks.com/api.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just instantiate a new instance of the api, and make a character with the url from battle.net and you're good to go
 
 ## Contributing
 
